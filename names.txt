@@ -1,3 +1,6 @@
 1.git init-To initiate the project
 2.git status -To know about the files present in the folder
 3.Mkdir new folder - To create a new folder
+4.touch commands.txt - o create a files
+5.git add . -To commit the changes in untracked files
+6.gitcommit -m "names.txt file added"
